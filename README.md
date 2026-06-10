@@ -116,4 +116,4 @@ Design goal: user-controlled automation, not blind one-click mass applying.
 
 ## License
 
-This project is licensed under the Career Co-Pilot Protective Open Source License (CC-POL v1.0). See [LICENSE](LICENSE).
+This project is licensed under the SkillSync Protective Open Source License (CC-POL v1.0). See [LICENSE](LICENSE).
